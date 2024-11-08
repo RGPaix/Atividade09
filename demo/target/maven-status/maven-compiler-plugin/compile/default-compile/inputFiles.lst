@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\Cliente.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\config\OpenApiConfig.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\config\SwaggerConfig.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\controllers\ClienteController.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\controllers\PedidoController.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\controllers\ProdutoController.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\DemoApplication.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\Pedido.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\Produto.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\repositories\ClienteRepository.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\repositories\PedidoRepository.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\repositories\ProdutoRepository.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\services\ClienteService.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\services\PedidoService.java
+C:\Users\USUARIO\Downloads\demo\src\main\java\com\example\models\services\ProdutoService.java

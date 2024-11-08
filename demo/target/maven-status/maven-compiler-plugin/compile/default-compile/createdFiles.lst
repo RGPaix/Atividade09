@@ -1,0 +1,15 @@
+com\example\models\repositories\ClienteRepository.class
+com\example\models\config\OpenApiConfig.class
+com\example\models\controllers\PedidoController.class
+com\example\models\DemoApplication.class
+com\example\models\Produto.class
+com\example\models\Cliente.class
+com\example\models\config\SwaggerConfig.class
+com\example\models\Pedido.class
+com\example\models\services\ClienteService.class
+com\example\models\services\ProdutoService.class
+com\example\models\controllers\ProdutoController.class
+com\example\models\repositories\ProdutoRepository.class
+com\example\models\services\PedidoService.class
+com\example\models\controllers\ClienteController.class
+com\example\models\repositories\PedidoRepository.class
